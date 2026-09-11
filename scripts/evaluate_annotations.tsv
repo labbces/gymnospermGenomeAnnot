@@ -1,0 +1,5 @@
+./GFFs/GCA_023213395.1_ASM2321339v1_genomic.gff	GenomeFasta/GCA_023213395.1_ASM2321339v1_genomic.fasta	ANNEVO
+./GFFs/GCA_053640655.1_ASM5364065v1_genomic.gff	GenomeFasta/GCA_053640655.1_ASM5364065v1_genomic.fasta	ANNEVO
+./GFFs/GCA_053640655.1_ASM5364065v1_genomic.TiberiusAbinitio.gff	GenomeFasta/GCA_053640655.1_ASM5364065v1_genomic.fasta	TiberiusAbinitio
+./GFFs/GCA_023213395.1_ASM2321339v1_genomic.TiberiusAbinitio.gff	GenomeFasta/GCA_023213395.1_ASM2321339v1_genomic.fasta	TiberiusAbinitio
+
